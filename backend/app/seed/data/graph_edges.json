@@ -1,0 +1,66 @@
+[
+  {
+    "relation_type": "COMPLEMENTS",
+    "source_node_type": "Theme",
+    "source_value": "Unicorn",
+    "target_node_type": "AddOn",
+    "target_value": "Face Painting",
+    "weight": 1.0
+  },
+  {
+    "relation_type": "COMPLEMENTS",
+    "source_node_type": "Theme",
+    "source_value": "Unicorn",
+    "target_node_type": "AddOn",
+    "target_value": "Photographer",
+    "weight": 0.8
+  },
+  {
+    "relation_type": "COMPLEMENTS",
+    "source_node_type": "Theme",
+    "source_value": "Space",
+    "target_node_type": "AddOn",
+    "target_value": "Interactive Games Host",
+    "weight": 1.1
+  },
+  {
+    "relation_type": "SUITABLE_FOR",
+    "source_node_type": "AddOn",
+    "source_value": "Face Painting",
+    "target_node_type": "AgeGroup",
+    "target_value": "AgeGroup:3-5",
+    "weight": 1.2
+  },
+  {
+    "relation_type": "SUITABLE_FOR",
+    "source_node_type": "AddOn",
+    "source_value": "Face Painting",
+    "target_node_type": "AgeGroup",
+    "target_value": "AgeGroup:6-8",
+    "weight": 1.0
+  },
+  {
+    "relation_type": "SUITABLE_FOR",
+    "source_node_type": "AddOn",
+    "source_value": "Photographer",
+    "target_node_type": "AgeGroup",
+    "target_value": "AgeGroup:3-5",
+    "weight": 0.6
+  },
+  {
+    "relation_type": "SUITABLE_FOR",
+    "source_node_type": "AddOn",
+    "source_value": "Photographer",
+    "target_node_type": "AgeGroup",
+    "target_value": "AgeGroup:6-8",
+    "weight": 0.9
+  },
+  {
+    "relation_type": "SUITABLE_FOR",
+    "source_node_type": "AddOn",
+    "source_value": "Interactive Games Host",
+    "target_node_type": "AgeGroup",
+    "target_value": "AgeGroup:6-8",
+    "weight": 1.1
+  }
+]

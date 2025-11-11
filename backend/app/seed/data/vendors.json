@@ -1,0 +1,41 @@
+[
+  {
+    "id": "vendor_unicorn_dreams",
+    "name": "Unicorn Dreams Decor",
+    "areas_served": ["Dbaye", "Jounieh"],
+    "categories": ["Balloon Decor", "Backdrop", "Dessert Table"],
+    "themes": ["Unicorn", "Mermaid", "Princess"],
+    "price_band": 2,
+    "age_min": 3,
+    "age_max": 10,
+    "is_verified": true,
+    "response_time_score": 0.9,
+    "freshness_score": 0.8
+  },
+  {
+    "id": "vendor_magic_moments",
+    "name": "Magic Moments Entertainment",
+    "areas_served": ["Dbaye", "Beirut"],
+    "categories": ["Magician", "Games Host", "Face Painting"],
+    "themes": ["Unicorn", "Space", "Superhero"],
+    "price_band": 2,
+    "age_min": 4,
+    "age_max": 12,
+    "is_verified": true,
+    "response_time_score": 0.85,
+    "freshness_score": 0.75
+  },
+  {
+    "id": "vendor_budget_balloon",
+    "name": "Balloon Joy Creations",
+    "areas_served": ["Beirut"],
+    "categories": ["Balloon Decor", "Backdrop"],
+    "themes": ["Space", "Football", "Unicorn"],
+    "price_band": 1,
+    "age_min": 1,
+    "age_max": 12,
+    "is_verified": false,
+    "response_time_score": 0.7,
+    "freshness_score": 0.6
+  }
+]
