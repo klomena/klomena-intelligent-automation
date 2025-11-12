@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Le Jardin Events",
+    "city": "Dbaye",
+    "category": "venue",
+    "price_range": "high",
+    "rating": 4.8,
+    "metadata": {
+      "capacity": 200,
+      "amenities": ["parking", "catering", "sound_system"],
+      "address": "Dbaye, Beirut"
+    }
+  },
+  {
+    "name": "Sweet Moments Bakery",
+    "city": "Dbaye",
+    "category": "catering",
+    "price_range": "medium",
+    "rating": 4.6,
+    "metadata": {
+      "specialties": ["birthday_cakes", "desserts", "pastries"],
+      "delivery": true,
+      "address": "Dbaye, Beirut"
+    }
+  },
+  {
+    "name": "Beirut Photo Studio",
+    "city": "Beirut",
+    "category": "photography",
+    "price_range": "medium",
+    "rating": 4.7,
+    "metadata": {
+      "services": ["event_photography", "video", "editing"],
+      "experience_years": 10,
+      "address": "Beirut"
+    }
+  },
+  {
+    "name": "Party Time Decorations",
+    "city": "Dbaye",
+    "category": "decoration",
+    "price_range": "low",
+    "rating": 4.5,
+    "metadata": {
+      "styles": ["modern", "classic", "themed"],
+      "setup_included": true,
+      "address": "Dbaye, Beirut"
+    }
+  },
+  {
+    "name": "Sound & Lights Pro",
+    "city": "Beirut",
+    "category": "entertainment",
+    "price_range": "medium",
+    "rating": 4.6,
+    "metadata": {
+      "equipment": ["sound_system", "lighting", "dj_services"],
+      "address": "Beirut"
+    }
+  }
+]

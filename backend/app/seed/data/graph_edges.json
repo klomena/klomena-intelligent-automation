@@ -1,0 +1,74 @@
+[
+  {
+    "source": "birthday_party",
+    "target": "venue",
+    "relationship_type": "requires",
+    "weight": 10,
+    "metadata": {
+      "description": "A birthday party requires a venue"
+    }
+  },
+  {
+    "source": "birthday_party",
+    "target": "catering",
+    "relationship_type": "requires",
+    "weight": 9,
+    "metadata": {
+      "description": "A birthday party requires catering"
+    }
+  },
+  {
+    "source": "birthday_party",
+    "target": "decoration",
+    "relationship_type": "enhances",
+    "weight": 7,
+    "metadata": {
+      "description": "Decorations enhance a birthday party"
+    }
+  },
+  {
+    "source": "birthday_party",
+    "target": "photography",
+    "relationship_type": "suggests",
+    "weight": 6,
+    "metadata": {
+      "description": "Photography is suggested for birthday parties"
+    }
+  },
+  {
+    "source": "birthday_party",
+    "target": "entertainment",
+    "relationship_type": "enhances",
+    "weight": 8,
+    "metadata": {
+      "description": "Entertainment enhances birthday party experience"
+    }
+  },
+  {
+    "source": "venue",
+    "target": "decoration",
+    "relationship_type": "suggests",
+    "weight": 5,
+    "metadata": {
+      "description": "Venues often suggest decoration services"
+    }
+  },
+  {
+    "source": "catering",
+    "target": "decoration",
+    "relationship_type": "suggests",
+    "weight": 4,
+    "metadata": {
+      "description": "Catering services often work with decoration providers"
+    }
+  },
+  {
+    "source": "photography",
+    "target": "decoration",
+    "relationship_type": "enhances",
+    "weight": 6,
+    "metadata": {
+      "description": "Good decorations enhance photography results"
+    }
+  }
+]
